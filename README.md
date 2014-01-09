@@ -1,4 +1,0 @@
-testvha
-=======
-
-Test VHA repository
